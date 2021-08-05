@@ -1,0 +1,25 @@
+{
+  "name": "study-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxyue25/study-jest.git"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "zyxue25",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zxyue25/study-jest/issues"
+  },
+  "homepage": "https://github.com/zxyue25/study-jest#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
